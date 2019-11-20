@@ -1,4 +1,4 @@
 # VGA_simulation
 Simulações de equações ultilizando python
 
-![](VGA_simulation\questoes.jpeg)
+![alt text](VGA_simulation\questoes.jpeg)
