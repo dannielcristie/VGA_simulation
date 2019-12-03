@@ -1,2 +1,6 @@
-l=[i for i in range(1,10)]
-print(l)
+import numpy as np 
+
+vecU = np.array([1,-2,0])
+vecV = np.array([0,2,2])
+a = vecU
+print(a)
